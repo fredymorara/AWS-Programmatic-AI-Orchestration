@@ -2,6 +2,8 @@
 
 A ReAct (Reason → Act → Observe) travel planning agent built entirely in local Python, with no managed agent framework in the loop. This project steps *down* the stack from AgentCore Gateways/Harnesses to raw `boto3` and Bedrock's unified `converse` API, to see what the same ReAct pattern looks like when you own the orchestration loop yourself.
 
+**Portfolio Link:** [Programmatic AI Orchestration](https://freddymorara.tech/work/programmatic-ai)
+
 ---
 
 ## Table of Contents
